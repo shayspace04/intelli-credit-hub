@@ -28,7 +28,6 @@ Key components of the project include:
 - NumPy
 - Matplotlib
 - Scikit-learn
-- Jupyter Notebook
 
 ## Project Workflow
 1. Data preprocessing and cleaning  
