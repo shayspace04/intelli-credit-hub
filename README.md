@@ -1,5 +1,3 @@
-# intelli-credit-hub
-AI-powered credit risk assessment and analysis system
 # Intelli-Credit: Exploring Credit Risk with Data Science
 
 ## Introduction
@@ -30,6 +28,7 @@ Key components of the project include:
 - NumPy
 - Matplotlib
 - Scikit-learn
+- Jupyter Notebook
 
 ## Project Workflow
 1. Data preprocessing and cleaning  
@@ -51,6 +50,3 @@ There are several ways this project can be expanded in the future:
 - Applying advanced machine learning models
 - Integrating document analysis using OCR or NLP
 - Building an interactive dashboard for credit risk insights
-## Author
-**Shayel Panda**  
-B.Sc. (Hons) Mathematics y of Delhi
