@@ -51,6 +51,6 @@ There are several ways this project can be expanded in the future:
 - Applying advanced machine learning models
 - Integrating document analysis using OCR or NLP
 - Building an interactive dashboard for credit risk insights
-## Auth
+## Author
 **Shayel Panda**  
 B.Sc. (Hons) Mathematics y of Delhi
